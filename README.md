@@ -1,7 +1,7 @@
 ---
 description: The discord bot that does it all.
-cover: .gitbook/assets/pngtree-blue-creative-gradient-decoration-image_11175.jpg
-coverY: 0
+cover: .gitbook/assets/d4bad27c30072b09bf72de1adb1bb7b5.png
+coverY: 83.756345177665
 ---
 
 # Blame

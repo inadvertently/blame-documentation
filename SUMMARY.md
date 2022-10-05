@@ -1,6 +1,10 @@
 # Table of contents
 
-* [Blame (docs in progress)](README.md)
+* [Blame](README.md)
+
+## Getting Started
+
+* [Setup](getting-started/setup.md)
 
 ## Table Of Contents
 

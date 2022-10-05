@@ -4,9 +4,9 @@ cover: .gitbook/assets/pngtree-blue-creative-gradient-decoration-image_11175.jpg
 coverY: 0
 ---
 
-# Blame (docs in progress)
+# Blame
 
-### Features
+#### Features
 
 * Blame has a very unique antinuke that is based on a `penalty concept`. The more events you trigger, the quicker blame is to penalize you.
 * Easy to use user-friendly oriented antiraid logic that will terminate any raid attempts.
@@ -20,7 +20,8 @@ First time using the bot? This is the place to get started!
 * **First steps:** [Introduction](./) **|** [Quickstart](./#getting-started) **|** [Modules](https://github.com/inadvertently/blamev2/blob/master/reference/api-reference/README.md)
 * **Using commands:** [Command usage](https://github.com/inadvertently/blamev2/blob/master/quick-start/command-usage.md)
 * **Examples**: Can be found in each command description
-*
+
+
 
 {% content-ref url="https://github.com/inadvertently/blamev2/blob/master/broken-reference/README.md" %}
 [https://github.com/inadvertently/blamev2/blob/master/broken-reference/README.md](https://github.com/inadvertently/blamev2/blob/master/broken-reference/README.md)

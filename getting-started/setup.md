@@ -21,6 +21,10 @@ By default, the global antinuke limit is set to **two events** per **thirty seco
 
 <figure><img src="../.gitbook/assets/an limit.png" alt=""><figcaption><p>This sets the <code>ban_members</code> event to 3 per 30 seconds.</p></figcaption></figure>
 
+#### What does this mean?
+
+This means that any `unwhitelisted` users cannot do more than `3` bans per `30 seconds`. If so, they will be penalized through blames antinuke. **For more information on the antinuke, look for the tab within our table of contents.**
+
 ##
 
 ##

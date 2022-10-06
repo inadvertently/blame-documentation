@@ -23,10 +23,10 @@ First time using the bot? This is the place to get started!
 
 
 
-{% content-ref url="https://github.com/inadvertently/blamev2/blob/master/broken-reference/README.md" %}
-[https://github.com/inadvertently/blamev2/blob/master/broken-reference/README.md](https://github.com/inadvertently/blamev2/blob/master/broken-reference/README.md)
+{% content-ref url="table-of-contents/embeds/parameters.md" %}
+[parameters.md](table-of-contents/embeds/parameters.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://github.com/inadvertently/blamev2/blob/master/quick-start/README.md" %}
-[https://github.com/inadvertently/blamev2/blob/master/quick-start/README.md](https://github.com/inadvertently/blamev2/blob/master/quick-start/README.md)
+{% content-ref url="table-of-contents/embeds/variables.md" %}
+[variables.md](table-of-contents/embeds/variables.md)
 {% endcontent-ref %}

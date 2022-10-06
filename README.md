@@ -1,7 +1,7 @@
 ---
 description: The discord bot that does it all.
-cover: .gitbook/assets/d4bad27c30072b09bf72de1adb1bb7b5.png
-coverY: 83.756345177665
+cover: .gitbook/assets/8191ae4b5acc37ddfa12254475ed9189.jpg
+coverY: 82.06163886874549
 ---
 
 # Blame

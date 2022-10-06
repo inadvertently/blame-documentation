@@ -13,7 +13,11 @@ Setting up the antinuke is fairly easy. We try not to over complicate it for the
 
 **Output:**
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p><strong>Enabling the antinuke.</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p><strong>Enabling the antinuke.</strong></p></figcaption></figure>
+
+### Setting up antinuke limits
+
+By default, the global antinuke limit is set to **two events** per **thirty seconds**. What does this mean? This means, your staff must have to complete **three dangerous actions in order for blame to penalize them**. We can change this by adding **custom limits** to **events/triggers** like so:
 
 ##
 

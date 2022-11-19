@@ -138,10 +138,14 @@ Parameters are special kind of `variables` that tell our program that we are try
 
 {% tabs %}
 {% tab title="Syntax" %}
+```
 (thumbnail: URL)
+```
 {% endtab %}
 
 {% tab title="Example" %}
+```
 (thumbnail: https://blame.gg/assets/logo.png)
+```
 {% endtab %}
 {% endtabs %}
